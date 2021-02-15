@@ -1,0 +1,23 @@
+.text{
+	text-align: center;
+}
+
+#pTitle{
+	margin-bottom: 0px;
+	font-size: 300%;
+}
+
+#pAuthor{
+	margin-top: 0px;
+	font-size: 100%;
+}
+
+#pContent{
+	font-size: 200%;
+}
+
+#link{
+	text-align: center;
+	font-size: 200%;
+	display: block;
+}
