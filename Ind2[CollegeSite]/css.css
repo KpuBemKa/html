@@ -1,8 +1,15 @@
-table{
-	width: 100%;
+a{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
 }
 iframe{
 	height: inherit;
+	width: 100%;
+}
+table{
 	width: 100%;
 }
 .acasa{
@@ -11,11 +18,23 @@ iframe{
 .bottom{
 	height: 100px;
 }
+.center{
+    margin: auto;
+    display: block;
+    width: 600px;
+}
 .content{
 	height: 450px;
 }
 .dMenu{
-	padding: 100% 0;
+	padding: 170px 0;
+}
+.galleryCell{
+    height: 400px;
+    width: 100%;
+}
+.links{
+    text-align: center;
 }
 .logo{
 	display: block;
