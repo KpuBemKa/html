@@ -1,0 +1,30 @@
+table{
+	width: 100%;
+}
+iframe{
+	height: inherit;
+	width: 100%;
+}
+.acasa{
+	width: 40%;
+}
+.bottom{
+	height: 100px;
+}
+.content{
+	height: 450px;
+}
+.dMenu{
+	padding: 100% 0;
+}
+.logo{
+	display: block;
+}
+.menu{
+	width: 200px;
+	height: 450px;
+}
+.specialitati{
+	padding: 100px 0;
+}
+
