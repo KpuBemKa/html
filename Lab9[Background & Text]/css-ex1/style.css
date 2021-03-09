@@ -1,0 +1,12 @@
+body{
+    background-color: #AFDEF8;
+}
+h1{
+    background-color: #5D89CA;
+    color: #FFF;
+    text-transform: uppercase;
+}
+p{
+    color: #424242;
+    text-align: justify;
+}

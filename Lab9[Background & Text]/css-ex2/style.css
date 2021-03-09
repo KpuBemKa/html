@@ -1,0 +1,18 @@
+body{
+    background-color: #AFDEF8;
+    background-image: url("cosbuc.jpg");
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: top;
+    background-attachment: fixed;
+}
+p{
+    text-indent: 15px;
+}
+h3{
+    background-color: #5D89CA;
+    color: #FFF;
+}
+.red{
+    color: red;
+}
