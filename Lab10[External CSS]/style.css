@@ -1,0 +1,20 @@
+h1{
+    background-color: rgb(140,220,200);
+}
+ul{
+    background-color: rgb(200,160,200);
+}
+ol{
+    background-color: #DAFFC3;
+    letter-spacing: 5px;
+}
+p{
+    background-color: gray;
+    letter-spacing: 1cm;
+}
+div{
+    display: block;
+    height: 100px;
+    margin: auto;
+    width: 100px;
+}
