@@ -1,0 +1,55 @@
+a:link{
+    color: red;
+}
+a:hover{
+    color: yellow;
+}
+.text{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    text-indent: 50px;
+    width: 70%;
+    border: 1px solid black;
+}
+#ex1{
+    font-weight: bold;
+}
+#ex1 em{
+    font-weight: normal;
+    font-style: normal;
+}
+#ex2{
+    background-color: lightskyblue;
+    color: forestgreen;
+    text-align: right;
+}
+#ex2 em{
+    color: red;
+    font-style: normal;
+}
+#ex3 em{
+    color: lime;
+    font-size: 3em;
+    font-style: normal;
+}
+#ex4 em{
+    color: maroon;
+    font-size: 36pt;
+    font-style: normal;
+    text-align: center;
+}
+#ex5{
+    text-transform: uppercase;
+    font-size: 14pt;
+    list-style-type: none;
+    display: inline-block;
+    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+#ex6{
+    font-style: italic;
+    cursor: help;
+}
