@@ -1,0 +1,77 @@
+a:link{
+	text-decoration: none;
+}
+a:visited{
+	color: black;
+	text-decoration: overline;
+}
+a:hover{
+	color: blue;
+	text-decoration: underline;
+}
+body{
+	font-family: "Montserrat";
+	background-color: aquamarine;
+	font-size: 14;
+	padding: 20px;
+}
+img{
+	height: 100%;
+	width: 100%;
+}
+table{
+	width: 100%;
+}
+ul{
+	padding: 0;
+	list-style-type: none;
+}
+.info{
+	text-indent: 50px;
+	font-family: "Calibri";
+}
+.container{
+	position: relative;
+	
+}
+.text-block{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	transform: translate3d(-50%, -50%, 0);
+	width: 100%;
+	text-align: center;
+}
+#menu{
+	font-family: "Helvetica";
+	font-size: 20px;
+}
+#topHeader{
+	font-size: 72px;
+	color: #ffffff;
+	font-weight: 900;
+	font-family: "Montserrat";
+	text-shadow: 2px 2px 10px #000000;
+}
+#thMiddleLeft{
+	text-align: left;
+	vertical-align: top;
+	height: 800px;
+	width: 15%;
+}
+#tdMiddle{
+	text-align: left;
+	vertical-align: top;
+	padding-top: 50px;
+	padding-left: 150px;
+	padding-right: 50px;
+}
+#top{
+	height: 20%;
+}
+#bottom{
+	text-align: center;
+}
